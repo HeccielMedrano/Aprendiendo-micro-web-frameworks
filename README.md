@@ -20,5 +20,5 @@ dentro de la terminal.
 ## Autor
 
 * Héctor Daniel Medrano Meza - 361345
-* Erick Nevarez
+* Erick Fernando Nevarez Avila - 357664
 
